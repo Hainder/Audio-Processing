@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Track.qml</file>
+        <file>TracksModel.qml</file>
+        <file>TracksModelSec.qml</file>
+        <file>TrackSec.qml</file>
+    </qresource>
+</RCC>
